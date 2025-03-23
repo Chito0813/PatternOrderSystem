@@ -20,13 +20,6 @@
 ## Installation & Setup
 This project is a static frontend application that requires no complex setup. It can be run directly in a browser.
 
-### Local Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/PatternOrderSystem.git
-   ```
-2. Open the `index.html` file in your browser.
-
 ### Deployment
 Upload the project files to any static hosting platform, such as GitHub Pages, Netlify, or Vercel.
 
